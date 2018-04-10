@@ -1,2 +1,2 @@
-# foxburyX
+# FoxburyX
 FoxburyX Repository
